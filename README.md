@@ -76,7 +76,7 @@ Certifique-se de ter instalado em sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/claudemirtech/contador.git
+   git clone https://github.com/atomicwebai/contador.git
    cd contador
    ```
 
